@@ -68,6 +68,21 @@ if __name__ == "__main__":
         with open(file_path, "r") as current_file:
             entry_text = current_file.read()
             for key, value in judes_dict.items():
+                for title in value.titles:
+                    if title in entry_text:
+                        value.tc_count = randint(50, 100)
+                        print(f'{entry_text}\n')
+                        print(title)
+                        attr_to_get = ['author']
+                        attr_rec = utils.get_attributes(entry_text=entry_text, attributes=attr_to_get)
+                        print(attr_rec)
+                        print(f'Paper: {title}')
+                        for key, val in attr_rec.items():
+                            authors = val[1] if val[0] else None
+                        if authors:
+                            print(authors)
+
+
 
 
     # with open("judesData.json", 'w') as file:
