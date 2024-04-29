@@ -37,33 +37,15 @@ if __name__ == "__main__":
     
     with open("/home/portal/425 Project/COSC425-DATA-FORK/Stats/proc_cat_data.json", "r") as cat_file:
         category_dict = json.load(cat_file)
-        # print(category_dict)
     
     judes_dict = {}
-    avg = 0
 
-    # count = 0
     for outer_key, inner_keys in category_dict.items():
-        # if count > 0:
-        #     break
-        # print(outer_key)
         for inner_key, inner_values in inner_keys.items():
             if inner_key == "titles":
                 judes_dict[outer_key] = AvgCitationsData()
                 judes_dict[outer_key].titles.extend(inner_values)
                 judes_dict[outer_key].total_titles = len(inner_values)
-
-        # count += 1
-    # print(judes_dict)
-    # for category_Name, value in judes_dict.items():
- 
-    #     # print(value.tc_count)
-    #     # print("\n")
-    #     print(len(value.titles))
-    #     print(value.titles)
-    #     print(value.tc_count)
-    #     avg = (value.tc_count / len(value.titles))
-    #     print(f"Avergae Citations for {category_Name} = {avg}\n")
 
     request = ["title"]
 
@@ -76,22 +58,15 @@ if __name__ == "__main__":
             for key, value in judes_dict.items():
                 for title in value.titles:                    
                     if title in entry_text:
-                        # value.tc_count = randint(50, 100)
-                        # print(f'{entry_text}\n')
-                        # print(title)
+
                         attr_to_get = ['totalCitations']
                         attr_rec = utils.get_attributes(entry_text=entry_text, attributes=attr_to_get)
-                        # print(attr_rec)
-                        # print(f'Paper: {title}')
                         for key, val in attr_rec.items():
                             citaitons = val[1] if val[0] else None
                             if citaitons:
                                 value.tc_count += citaitons
                         break
             
-                    
-    # print(judes_dict)
-
 
     for value in judes_dict.values():
         if value.total_titles != 0:
