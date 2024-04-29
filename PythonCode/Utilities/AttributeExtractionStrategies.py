@@ -208,3 +208,22 @@ class DefaultExtractionStrategy(AttributeExtractionStrategy):
             return False, None
         return True, match.group(1).strip()
     
+class TotalCitationsExtractionStrategy(AttributeExtractionStrategy):
+    def __init__(self):
+        self.totalCitations_pattern = re.compile(r"TC\s(\d+)(?=\nZ9)", re.DOTALL)
+        
+    def extract_attribute(self, entry_text):        
+        totalCitations_TC_value = self.totalCitations_pattern.search(entry_text)
+        
+        result = ()
+        
+        if  totalCitations_TC_value:
+            totalCitations_int_value = int(totalCitations_TC_value.group(1))
+            result = (True,  totalCitations_int_value)
+        else:
+            result = (False, None)
+            warnings.warn(
+                "Attribute: 'TotalCitations' was not found in the entry", RuntimeWarning
+            )
+        
+        return result

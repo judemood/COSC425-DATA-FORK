@@ -3,7 +3,9 @@ import os
 import warnings
 import time
 import json
-from AttributeExtractionStrategies import AuthorExtractionStrategy, DefaultExtractionStrategy, WosCategoryExtractionStrategy, TitleExtractionStrategy, DepartmentExtractionStrategy
+import sys
+sys.path.append('/home/portal/425 Project/COSC425-DATA-FORK/PythonCode/Utilities/')
+from AttributeExtractionStrategies import AuthorExtractionStrategy, DefaultExtractionStrategy, WosCategoryExtractionStrategy, TitleExtractionStrategy, DepartmentExtractionStrategy, TotalCitationsExtractionStrategy
 
 # TODO: make documentation on the class and it's methods
 
@@ -27,6 +29,7 @@ class Utilities:
             "end_record": DefaultExtractionStrategy(),
             "wc_pattern": WosCategoryExtractionStrategy(),
             "department": DepartmentExtractionStrategy(),
+            "totalCitations": TotalCitationsExtractionStrategy(),
         }
 
     def get_attributes(self, entry_text, attributes):
@@ -60,6 +63,9 @@ class Utilities:
                     attribute_results[attribute] = self.attribute_patterns[attribute].extract_attribute(entry_text)
                 
                 elif attribute == "title":
+                    attribute_results[attribute] = self.attribute_patterns[attribute].extract_attribute(entry_text)
+                    
+                elif attribute == "totalCitations":
                     attribute_results[attribute] = self.attribute_patterns[attribute].extract_attribute(entry_text)
                     
                 else:
