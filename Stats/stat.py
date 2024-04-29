@@ -49,15 +49,15 @@ if __name__ == "__main__":
 
         # count += 1
     # print(judes_dict)
-    for category_Name, value in judes_dict.items():
+    # for category_Name, value in judes_dict.items():
  
-        # print(value.tc_count)
-        # print("\n")
-        print(len(value.titles))
-        print(value.titles)
-        print(value.tc_count)
-        avg = (value.tc_count / len(value.titles))
-        print(f"Avergae Citations for {category_Name} = {avg}\n")
+    #     # print(value.tc_count)
+    #     # print("\n")
+    #     print(len(value.titles))
+    #     print(value.titles)
+    #     print(value.tc_count)
+    #     avg = (value.tc_count / len(value.titles))
+    #     print(f"Avergae Citations for {category_Name} = {avg}\n")
 
     request = ["title"]
 
@@ -67,20 +67,25 @@ if __name__ == "__main__":
         file_path = os.path.join(split_files_dir, filename)
         with open(file_path, "r") as current_file:
             entry_text = current_file.read()
+            processed_titles = set()
             for key, value in judes_dict.items():
                 for title in value.titles:
+                    if title in processed_titles:
+                        continue  
                     if title in entry_text:
+                        processed_titles.add(title)
                         value.tc_count = randint(50, 100)
-                        print(f'{entry_text}\n')
-                        print(title)
+                        # print(f'{entry_text}\n')
+                        # print(title)
                         attr_to_get = ['totalCitations']
                         attr_rec = utils.get_attributes(entry_text=entry_text, attributes=attr_to_get)
-                        print(attr_rec)
-                        print(f'Paper: {title}')
+                        # print(attr_rec)
+                        # print(f'Paper: {title}')
                         for key, val in attr_rec.items():
-                            authors = val[1] if val[0] else None
-                        if authors:
-                            print(authors)
+                            citaitons = val[1] if val[0] else None
+                        if citaitons:
+                            print(citaitons)
+                        break
 
 
 
