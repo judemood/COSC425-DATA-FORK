@@ -19,6 +19,12 @@ from PythonCode.Utilities.utilities import Utilities
 class AvgCitationsData:
         titles: List[str] = field(default_factory=list)
         tc_count: int = 0
+        
+def serialize_avg_citations_data(avg_citations_data):
+    return {
+        "titles": avg_citations_data.titles,
+        "tc_count": avg_citations_data.tc_count
+    }
 
 if __name__ == "__main__":
     # loader = PickleDictLoader(pickle_path="/mnt/linuxlab/home/jmaggitti1/425 Project/COSC425-DATA-FORK/PythonCode/Utilities/category_dict.pkl")
@@ -45,7 +51,7 @@ if __name__ == "__main__":
                 # print("\n\n")
                 for title in inner_values:
                     judes_dict[outer_key].titles.append(title)
-                    judes_dict[outer_key].tc_count = randint(50, 100)
+                    judes_dict[outer_key].tc_count = 0
 
         # count += 1
     # print(judes_dict)
@@ -74,7 +80,7 @@ if __name__ == "__main__":
                         continue  
                     if title in entry_text:
                         processed_titles.add(title)
-                        value.tc_count = randint(50, 100)
+                        # value.tc_count = randint(50, 100)
                         # print(f'{entry_text}\n')
                         # print(title)
                         attr_to_get = ['totalCitations']
@@ -84,12 +90,14 @@ if __name__ == "__main__":
                         for key, val in attr_rec.items():
                             citaitons = val[1] if val[0] else None
                         if citaitons:
-                            print(citaitons)
+                            value.tc_count = citaitons
                         break
+                    
+    # print(judes_dict)
 
 
 
 
-    # with open("judesData.json", 'w') as file:
-    #     json.dump(judes_dict, file, indent=4)
+    with open("judesData.json", 'w') as file:
+        json.dump(judes_dict, file, default=serialize_avg_citations_data, indent=4)
 
