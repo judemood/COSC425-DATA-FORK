@@ -73,7 +73,7 @@ if __name__ == "__main__":
                         value.tc_count = randint(50, 100)
                         print(f'{entry_text}\n')
                         print(title)
-                        attr_to_get = ['author']
+                        attr_to_get = ['totalCitations']
                         attr_rec = utils.get_attributes(entry_text=entry_text, attributes=attr_to_get)
                         print(attr_rec)
                         print(f'Paper: {title}')
