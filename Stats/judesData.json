@@ -39,7 +39,9 @@
             "The Voter Engagement Model: Preparing the Next Generation of Social Workers for Political Practice",
             "Reforming School Discipline: Responses by School District Leadership to Revised State Guidelines for Student Codes of Conduct"
         ],
-        "tc_count": 5
+        "tc_count": 21,
+        "total_titles": 37,
+        "avg_citations": 0.57
     },
     "Behavioral Sciences": {
         "titles": [
@@ -57,7 +59,9 @@
             "Sex differences in social odor discrimination by southern giant pouched rats (Cricetomys ansorgei)",
             "Mimetic Self-Reflexivity and Intersubjectivity in Complementary and Alternative Medicine Practices: The Mirror Neuron System in Breast Cancer Survivorship"
         ],
-        "tc_count": 22
+        "tc_count": 22,
+        "total_titles": 13,
+        "avg_citations": 1.69
     },
     "Zoology": {
         "titles": [
@@ -81,7 +85,9 @@
             "Behavioral and neural auditory thresholds in a frog",
             "Rare Bearded Capuchin (Sapajus libidinosus) Tool-Use Culture is Threatened by Land use Changes in Northeastern Brazil"
         ],
-        "tc_count": 9
+        "tc_count": 31,
+        "total_titles": 19,
+        "avg_citations": 1.63
     },
     "Education, Special": {
         "titles": [
@@ -89,7 +95,9 @@
             "Evidence-Based Strategies to Reduce Anxiety in Students With Autism Spectrum Disorder",
             "K-2 principal knowledge (not leadership) matters for dyslexia intervention"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Psychology, Educational": {
         "titles": [
@@ -99,7 +107,9 @@
             "Examining the Role of Self-Regulated Learning Microanalysis in the Assessment of Learners' Regulation",
             "Rural Women, Creative Writing, and Resistance"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 5,
+        "avg_citations": 0.0
     },
     "Rehabilitation": {
         "titles": [
@@ -107,7 +117,9 @@
             "Mattress Coil Spring Fatigue and Weight-Bearing Support: Comparison of Weight-Bearing and Non-Weight-Bearing Springs",
             "K-2 principal knowledge (not leadership) matters for dyslexia intervention"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Social Work": {
         "titles": [
@@ -129,7 +141,9 @@
             "Secondary traumatic stress and self-care inextricably linked",
             "An Exploration of Human Rights and Social Work Education in the United States"
         ],
-        "tc_count": 2
+        "tc_count": 28,
+        "total_titles": 17,
+        "avg_citations": 1.65
     },
     "Nursing": {
         "titles": [
@@ -151,7 +165,9 @@
             "Nurse Faculty Shortage Voices of Nursing Program Administrators",
             "Preparing New Clinical Educators: 10-Year Outcomes of a Hybrid Program"
         ],
-        "tc_count": 1
+        "tc_count": 15,
+        "total_titles": 17,
+        "avg_citations": 0.88
     },
     "Information Science & Library Science": {
         "titles": [
@@ -160,7 +176,9 @@
             "Software Vulnerability and Application Security Risk",
             "IT Application Maturity, Management Institutional Capability and Process Management Capability"
         ],
-        "tc_count": 10
+        "tc_count": 14,
+        "total_titles": 4,
+        "avg_citations": 3.5
     },
     "Asian Studies": {
         "titles": [
@@ -168,7 +186,9 @@
             "Intersectionality, Sikhism, and Black feminist legal theory: Reconceptualizing Sikh precarity and minoritization in the US and India",
             "A Monk for All Seasons: Visions of Jien (1155-1225) in Medieval Japan"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Public, Environmental & Occupational Health": {
         "titles": [
@@ -190,21 +210,27 @@
             "Three dimensions of desirability of control: divergent relations with psychological and physical well-being",
             "Patient Assessment and Chronic Pain Self-Management in Ethnomedicine: Seasonal and Ecosystemic Embodiment in Ayurvedic Patient-Centered Care"
         ],
-        "tc_count": 4
+        "tc_count": 4,
+        "total_titles": 17,
+        "avg_citations": 0.24
     },
     "Anatomy & Morphology": {
         "titles": [
             "Regenerative potential and limitations in a zebrafish model of hyperglycemia-induced nerve degeneration",
             "Zygomatic arch root position in relation to dietary type in haplorhine primates"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Developmental Biology": {
         "titles": [
             "The postembryonic transformation of the shell in emydine box turtles",
             "Regenerative potential and limitations in a zebrafish model of hyperglycemia-induced nerve degeneration"
         ],
-        "tc_count": 5
+        "tc_count": 5,
+        "total_titles": 2,
+        "avg_citations": 2.5
     },
     "Biology": {
         "titles": [
@@ -218,14 +244,18 @@
             "Tempo and Pattern of Avian Brain Size Evolution",
             "Cross-modal facilitation of auditory discrimination in a frog"
         ],
-        "tc_count": 10
+        "tc_count": 73,
+        "total_titles": 9,
+        "avg_citations": 8.11
     },
     "Fisheries": {
         "titles": [
             "Multiple trophic pathways support fish on floodplains of California's Central Valley",
             "Growth of the estuarine fish Fundulus heteroclitus in response to diel-cycling hypoxia and acidification: interaction with temperature"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Marine & Freshwater Biology": {
         "titles": [
@@ -236,7 +266,9 @@
             "Multiple trophic pathways support fish on floodplains of California's Central Valley",
             "The use of unmanned aircraft systems and high-resolution satellite imagery to monitor tilapia fish-cage aquaculture expansion in Lake Victoria, Kenya"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 6,
+        "avg_citations": 0.0
     },
     "Business": {
         "titles": [
@@ -274,13 +306,17 @@
             "Quantifying COVID-19?s silver lining: Avoided deaths from air quality improvements in Bogota",
             "False advertising or slander? Using location based tweets to assess online rating-reliability"
         ],
-        "tc_count": 4
+        "tc_count": 56,
+        "total_titles": 33,
+        "avg_citations": 1.7
     },
     "International Relations": {
         "titles": [
             "Green Product Portfolio and Environmental Lobbying"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Political Science": {
         "titles": [
@@ -298,7 +334,9 @@
             "Sole Representatives in War and Peace: The Case of Sri Lanka's Liberation Tigers of Tamil Eelam",
             "A Culture of Organizational Grit From the Perspective of US Military Officers: A Qualitative Inquiry"
         ],
-        "tc_count": 8
+        "tc_count": 14,
+        "total_titles": 13,
+        "avg_citations": 1.08
     },
     "Ecology": {
         "titles": [
@@ -332,7 +370,9 @@
             "Ants of the Forest and Dune Habitats of an Atlantic Coastal Barrier Island",
             "Potential conservation gains from improved protected area management in the Brazilian Amazon"
         ],
-        "tc_count": 0
+        "tc_count": 2,
+        "total_titles": 29,
+        "avg_citations": 0.07
     },
     "Environmental Sciences": {
         "titles": [
@@ -357,14 +397,18 @@
             "High-Resolution Monitoring of Tidal Systems Using UAV: A Case Study on Poplar Island, MD (USA)",
             "Potential conservation gains from improved protected area management in the Brazilian Amazon"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 20,
+        "avg_citations": 0.0
     },
     "Literature": {
         "titles": [
             "Guided Reading: The Influence of Visual Design on Writing with Sources",
             "\"Mystery and Magic\": Additional Biblical Allusions in Welty's \"A Worn Path\""
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Astronomy & Astrophysics": {
         "titles": [
@@ -378,7 +422,9 @@
             "Extreme ultraviolet quasar colours from GALEX observations of the SDSS DR14Q catalogue",
             "The Eighteenth Data Release of the Sloan Digital Sky Surveys: Targeting and First Spectra from SDSS-V"
         ],
-        "tc_count": 6
+        "tc_count": 13,
+        "total_titles": 9,
+        "avg_citations": 1.44
     },
     "Psychology, Applied": {
         "titles": [
@@ -392,7 +438,9 @@
             "The cross-cultural moderators of the influence of emotional intelligence on organizational citizenship behavior and counterproductive work behavior",
             "Predicting Body-Esteem Based on Type of Sexual Victimization Experience"
         ],
-        "tc_count": 1
+        "tc_count": 9,
+        "total_titles": 9,
+        "avg_citations": 1.0
     },
     "Management": {
         "titles": [
@@ -431,7 +479,9 @@
             "Relationship conflict and counterproductive work behavior: the roles of affective well-being and emotional intelligence",
             "Rude customers and service performance: roles of motivation and personality"
         ],
-        "tc_count": 3
+        "tc_count": 19,
+        "total_titles": 34,
+        "avg_citations": 0.56
     },
     "Environmental Studies": {
         "titles": [
@@ -446,7 +496,9 @@
             "Local Effects of Payments for Ecosystem Services on Rural Poverty",
             "Sustainability of agricultural production following deforestation in the tropics: Evidence on the value of newly-deforested, long-deforested and forested land in the Brazilian Amazon"
         ],
-        "tc_count": 3
+        "tc_count": 3,
+        "total_titles": 10,
+        "avg_citations": 0.3
     },
     "Criminology & Penology": {
         "titles": [
@@ -456,7 +508,9 @@
             "Predicting Body-Esteem Based on Type of Sexual Victimization Experience",
             "Early Reactions of Parents to Their Trans and Gender Non-Conforming Children"
         ],
-        "tc_count": 0
+        "tc_count": 1,
+        "total_titles": 5,
+        "avg_citations": 0.2
     },
     "Economics": {
         "titles": [
@@ -491,7 +545,9 @@
             "The color of water: The contributions of green and blue water to agricultural productivity in the Western Brazilian Amazon",
             "Quantifying COVID-19?s silver lining: Avoided deaths from air quality improvements in Bogota"
         ],
-        "tc_count": 1
+        "tc_count": 76,
+        "total_titles": 30,
+        "avg_citations": 2.53
     },
     "Evolutionary Biology": {
         "titles": [
@@ -503,7 +559,9 @@
             "Isotopic and genetic methods reveal the role of the gut microbiome in mammalian host essential amino acid metabolism",
             "Cross-modal facilitation of auditory discrimination in a frog"
         ],
-        "tc_count": 0
+        "tc_count": 7,
+        "total_titles": 7,
+        "avg_citations": 1.0
     },
     "Oncology": {
         "titles": [
@@ -511,7 +569,9 @@
             "Endocrine therapy initiation and overall survival outcomes with omission of radiation therapy in older Medicare patients with early-stage hormone-receptor-positive breast cancer",
             "Identification of Genes Required for Enzalutamide Resistance in Castration-Resistant Prostate Cancer Cells in Vitro"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Public Administration": {
         "titles": [
@@ -521,19 +581,25 @@
             "The administrative making of the recycler",
             "The effect of regulation-driven trade barriers and governance quality on export entrepreneurship"
         ],
-        "tc_count": 1
+        "tc_count": 2,
+        "total_titles": 5,
+        "avg_citations": 0.4
     },
     "Geography": {
         "titles": [
             "Enhancing the U.S. TBI data infrastructure: geospatial perspective"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Geography, Physical": {
         "titles": [
             "Enhancing the U.S. TBI data infrastructure: geospatial perspective"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Remote Sensing": {
         "titles": [
@@ -541,7 +607,9 @@
             "High-Resolution Monitoring of Tidal Systems Using UAV: A Case Study on Poplar Island, MD (USA)",
             "Seasonality and Characterization Mapping of Restored Tidal Marsh by NDVI Imageries Coupling UAVs and Multispectral Camera"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Business, Finance": {
         "titles": [
@@ -564,7 +632,9 @@
             "Familiarity bias in direct stock investment by individual investors",
             "Airline revenue management around sporting mega-events: an application using data from the Super Bowl XLIX"
         ],
-        "tc_count": 14
+        "tc_count": 41,
+        "total_titles": 18,
+        "avg_citations": 2.28
     },
     "Mathematics": {
         "titles": [
@@ -582,13 +652,17 @@
             "A note on generating primitive Pythagorean triples using matrices",
             "On the spectral properties of the quantum cohomology of odd quadrics"
         ],
-        "tc_count": 2
+        "tc_count": 14,
+        "total_titles": 13,
+        "avg_citations": 1.08
     },
     "Parasitology": {
         "titles": [
             "Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in G-protein coupled receptor diversity associated with the onset of parasitism"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Development Studies": {
         "titles": [
@@ -598,7 +672,9 @@
             "From orchards to chips: Silicon Valley's evolving entrepreneurial ecosystem",
             "Improving the resilience of SMEs in times of crisis: The impact of mobile money amid Covid-19 in Zambia"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 5,
+        "avg_citations": 0.0
     },
     "Health Care Sciences & Services": {
         "titles": [
@@ -607,13 +683,17 @@
             "Reported Self-Efficacy of Health Educators During COVID-19",
             "Effectiveness of an oral hygiene promoting program for elementary school students using a smartphone endomicroscope in Thailand"
         ],
-        "tc_count": 1
+        "tc_count": 1,
+        "total_titles": 4,
+        "avg_citations": 0.25
     },
     "Integrative & Complementary Medicine": {
         "titles": [
             "Mattress Coil Spring Fatigue and Weight-Bearing Support: Comparison of Weight-Bearing and Non-Weight-Bearing Springs"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Psychology, Multidisciplinary": {
         "titles": [
@@ -627,7 +707,9 @@
             "Then and now: A 50-year retrospective thematic analysis of Society for Community Research and Action presidential addresses",
             "Developing a State University System Model to Diversify Faculty in the Biomedical Sciences"
         ],
-        "tc_count": 3
+        "tc_count": 17,
+        "total_titles": 9,
+        "avg_citations": 1.89
     },
     "Social Sciences, Interdisciplinary": {
         "titles": [
@@ -635,14 +717,18 @@
             "\"Things Will Get Worse Before They Get Better\": LGBTQ plus People's Reactions to the 2020 US Presidential Election",
             "Muslim women negotiating their identity in the era of the Muslim ban"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Health Policy & Services": {
         "titles": [
             "The Provider's Body in the Therapeutic Relationship: How Complementary and Alternative Medicine Providers Describe Their Work as Healers",
             "Reported Self-Efficacy of Health Educators During COVID-19"
         ],
-        "tc_count": 0
+        "tc_count": 1,
+        "total_titles": 2,
+        "avg_citations": 0.5
     },
     "Gerontology": {
         "titles": [
@@ -650,7 +736,9 @@
             "Identifying Healthcare Stereotype Threat in Older Gay Men Living with HIV",
             "Two-megahertz impedance index prediction equation for appendicular lean mass in Korean older people"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Education, Scientific Disciplines": {
         "titles": [
@@ -671,7 +759,9 @@
             "Buchwald-Hartwig Amination, High-Throughput Experimentation, and Process Chemistry: An Introduction via Undergraduate Laboratory Experimentation",
             "Flyby Measurement of the Magnetic Field of a Helmholtz Coil with a Smart Cart"
         ],
-        "tc_count": 1
+        "tc_count": 3,
+        "total_titles": 16,
+        "avg_citations": 0.19
     },
     "Biodiversity Conservation": {
         "titles": [
@@ -688,7 +778,9 @@
             "Ants of the Forest and Dune Habitats of an Atlantic Coastal Barrier Island",
             "Potential conservation gains from improved protected area management in the Brazilian Amazon"
         ],
-        "tc_count": 2
+        "tc_count": 10,
+        "total_titles": 12,
+        "avg_citations": 0.83
     },
     "Ornithology": {
         "titles": [
@@ -696,20 +788,26 @@
             "Migratory return rates and breeding fidelity in Eastern Bluebirds (Sialia sialis)",
             "Ground-nesting warblers on the eastern shore of Maryland: declining population trends and the effects of forest composition and structure"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Statistics & Probability": {
         "titles": [
             "The Tilted Beta-Binomial Distribution in Overdispersed Data: Maximum Likelihood and Bayesian Estimation",
             "Regression modelling with the tilted beta distribution: A Bayesian approach"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Agronomy": {
         "titles": [
             "Toxicity, horizontal transfer, and physiological and behavioral effects of cycloxaprid against Solenopsis invicta (Hymenoptera: Formicidae)"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Entomology": {
         "titles": [
@@ -723,21 +821,27 @@
             "SURVEY AND HABITAT ASSESSMENT OF KING'S HAIRSTREAK (SATYRIUM KINGI) IN MARYLAND COASTAL PLAIN FORESTS",
             "Paving Behavior in Ants and Its Potential Application in Monitoring Two Urban Pest Ants, Solenopsis invicta and Tapinoma melanocephalum"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 9,
+        "avg_citations": 0.0
     },
     "Engineering, Industrial": {
         "titles": [
             "Responding to epidemic-driven demand: the role of supply channels",
             "Collaborative Partnering for Airport Construction Projects: State-of-Practice"
         ],
-        "tc_count": 1
+        "tc_count": 1,
+        "total_titles": 2,
+        "avg_citations": 0.5
     },
     "Engineering, Manufacturing": {
         "titles": [
             "Responding to epidemic-driven demand: the role of supply channels",
             "Does Forecast-Accuracy-Based Allocation Induce Customers to Share Truthful Order Forecasts?"
         ],
-        "tc_count": 0
+        "tc_count": 1,
+        "total_titles": 2,
+        "avg_citations": 0.5
     },
     "Operations Research & Management Science": {
         "titles": [
@@ -745,7 +849,9 @@
             "Responding to epidemic-driven demand: the role of supply channels",
             "Enhancing Hospital Performance: the role of interfirm dynamic capabilities from the information processing view"
         ],
-        "tc_count": 0
+        "tc_count": 1,
+        "total_titles": 3,
+        "avg_citations": 0.33
     },
     "Physics, Nuclear": {
         "titles": [
@@ -753,7 +859,9 @@
             "Rigorous constraints on three-nucleon forces in chiral effective field theory from fast and accurate calculations of few-body observables",
             "Exploring Bayesian parameter estimation for chiral effective field theory using nucleon-nucleon phase shifts"
         ],
-        "tc_count": 81
+        "tc_count": 81,
+        "total_titles": 3,
+        "avg_citations": 27.0
     },
     "Women's Studies": {
         "titles": [
@@ -763,14 +871,18 @@
             "Early Reactions of Parents to Their Trans and Gender Non-Conforming Children",
             "Muslim women negotiating their identity in the era of the Muslim ban"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 5,
+        "avg_citations": 0.0
     },
     "Psychology, Developmental": {
         "titles": [
             "Civic Engagement Among Youth Exposed to Community Violence: Directions for Research and Practice",
             "That was last time! The effect of a delay on children's episodic memories of learning new facts"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Chemistry, Multidisciplinary": {
         "titles": [
@@ -779,7 +891,9 @@
             "Buchwald-Hartwig Amination, High-Throughput Experimentation, and Process Chemistry: An Introduction via Undergraduate Laboratory Experimentation",
             "Characterization of an L-Ascorbate Catabolic Pathway with Unprecedented Enzymatic Transformations"
         ],
-        "tc_count": 0
+        "tc_count": 1,
+        "total_titles": 4,
+        "avg_citations": 0.25
     },
     "Sociology": {
         "titles": [
@@ -788,7 +902,9 @@
             "Anarchists and national identity: The case of German radicals in the United States and Brazil, 1880-1945",
             "A Culture of Organizational Grit From the Perspective of US Military Officers: A Qualitative Inquiry"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 4,
+        "avg_citations": 0.0
     },
     "Computer Science, Information Systems": {
         "titles": [
@@ -796,19 +912,25 @@
             "LAX-Score: Quantifying Team Performance in Lacrosse and Exploring IMU Features towards Performance Enhancement",
             "Developing Business Risk Resilience through Risk Management Infrastructure: The Moderating Role of Big Data Analytics"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Engineering, Electrical & Electronic": {
         "titles": [
             "LAX-Score: Quantifying Team Performance in Lacrosse and Exploring IMU Features towards Performance Enhancement"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Telecommunications": {
         "titles": [
             "LAX-Score: Quantifying Team Performance in Lacrosse and Exploring IMU Features towards Performance Enhancement"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Law": {
         "titles": [
@@ -817,7 +939,9 @@
             "How many regulations does it take to get a beer? The geography of beer regulations",
             "Encouraging Collaboration in a Business Law Classroom: Two Activities That Challenge and Engage"
         ],
-        "tc_count": 2
+        "tc_count": 2,
+        "total_titles": 4,
+        "avg_citations": 0.5
     },
     "Geriatrics & Gerontology": {
         "titles": [
@@ -825,19 +949,25 @@
             "Rising From the Floor in Persons With Parkinson's Disease",
             "Two-megahertz impedance index prediction equation for appendicular lean mass in Korean older people"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Medicine, Legal": {
         "titles": [
             "A Pilot Study Comparing Postmortem and Antemortem CT for the Identification of Unknowns: Could a Forensic Pathologist Do It?"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Literature, African, Australian, Canadian": {
         "titles": [
             "Justice, subalternism, and literary justice: Aravind Adiga'sThe White Tiger"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Multidisciplinary Sciences": {
         "titles": [
@@ -853,13 +983,17 @@
             "\"Helicase\" activity promoted through dynamic interactions between a ssDNA translocase and a diffusing SSB protein",
             "Food Transport of Red Imported Fire Ants (Hymenoptera: Formicidae) on Vertical Surfaces"
         ],
-        "tc_count": 102
+        "tc_count": 105,
+        "total_titles": 11,
+        "avg_citations": 9.55
     },
     "Surgery": {
         "titles": [
             "Chronic migraine with aura as a neurologic manifestation of an atrial myxoma-A case report"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Mathematics, Applied": {
         "titles": [
@@ -870,32 +1004,42 @@
             "On the asymptotic behavior of the q-analog of Kostant's partition function",
             "A finite volume-alternating direction implicit method for the valuation of American options under the Heston model"
         ],
-        "tc_count": 1
+        "tc_count": 3,
+        "total_titles": 6,
+        "avg_citations": 0.5
     },
     "Mathematics, Interdisciplinary Applications": {
         "titles": [
             "Synchronization of memristive FitzHugh-Nagumo neural networks",
             "Federal Regulation and Mortality in the 50 States"
         ],
-        "tc_count": 0
+        "tc_count": 4,
+        "total_titles": 2,
+        "avg_citations": 2.0
     },
     "Mechanics": {
         "titles": [
             "Synchronization of memristive FitzHugh-Nagumo neural networks"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Physics, Fluids & Plasmas": {
         "titles": [
             "Synchronization of memristive FitzHugh-Nagumo neural networks"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Physics, Mathematical": {
         "titles": [
             "Synchronization of memristive FitzHugh-Nagumo neural networks"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Communication": {
         "titles": [
@@ -909,7 +1053,9 @@
             "Stereotype formation An examination of three contesting models in Vietnam",
             "MOBILE JOURNALISM AS LIFESTYLE JOURNALISM? Field Theory in the integration of mobile in the newsroom and mobile journalist role conception"
         ],
-        "tc_count": 22
+        "tc_count": 22,
+        "total_titles": 9,
+        "avg_citations": 2.44
     },
     "Agricultural Economics & Policy": {
         "titles": [
@@ -917,7 +1063,9 @@
             "Regulatory Restrictions Across U.S. Protein Supply Chains",
             "Estimating habit-forming and variety-seeking behavior: Valuation of recreational birdwatching"
         ],
-        "tc_count": 2
+        "tc_count": 2,
+        "total_titles": 3,
+        "avg_citations": 0.67
     },
     "Biochemistry & Molecular Biology": {
         "titles": [
@@ -925,7 +1073,9 @@
             "Tempo and Pattern of Avian Brain Size Evolution",
             "Stone tools improve diet quality in wild monkeys"
         ],
-        "tc_count": 0
+        "tc_count": 61,
+        "total_titles": 3,
+        "avg_citations": 20.33
     },
     "Cell Biology": {
         "titles": [
@@ -933,13 +1083,17 @@
             "Stone tools improve diet quality in wild monkeys",
             "Cerebrospinal fluid replacement solutions promote neuroglia migratory behaviors and spinal explant outgrowth in microfluidic culture"
         ],
-        "tc_count": 0
+        "tc_count": 61,
+        "total_titles": 3,
+        "avg_citations": 20.33
     },
     "Area Studies": {
         "titles": [
             "William Dorsey and the construction of an African American history archive"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Humanities, Multidisciplinary": {
         "titles": [
@@ -948,14 +1102,18 @@
             "The Icon and the Text: American Book History and the Construction of the World's Largest-Grossing Illustrated Book, Madonna's Sex (1992)",
             "Ratifying Greatness: Franklin D. Roosevelt in Film and Television"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 4,
+        "avg_citations": 0.0
     },
     "Physiology": {
         "titles": [
             "Acute effects of hyperglycemia on the peripheral nervous system in zebrafish (Danio rerio) following nitroreductase-mediated \u03b2-cell ablation",
             "Disruption of peripheral nerve development in a zebrafish model of hyperglycemia"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Physics, Multidisciplinary": {
         "titles": [
@@ -965,7 +1123,9 @@
             "Damped Oscillations with a Smart Cart",
             "Flyby Measurement of the Magnetic Field of a Helmholtz Coil with a Smart Cart"
         ],
-        "tc_count": 0
+        "tc_count": 2,
+        "total_titles": 5,
+        "avg_citations": 0.4
     },
     "Neurosciences": {
         "titles": [
@@ -975,7 +1135,9 @@
             "Mimetic Self-Reflexivity and Intersubjectivity in Complementary and Alternative Medicine Practices: The Mirror Neuron System in Breast Cancer Survivorship",
             "Disruption of peripheral nerve development in a zebrafish model of hyperglycemia"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 5,
+        "avg_citations": 0.0
     },
     "Geosciences, Multidisciplinary": {
         "titles": [
@@ -983,20 +1145,26 @@
             "High-Resolution Monitoring of Tidal Systems Using UAV: A Case Study on Poplar Island, MD (USA)",
             "Seasonality and Characterization Mapping of Restored Tidal Marsh by NDVI Imageries Coupling UAVs and Multispectral Camera"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Meteorology & Atmospheric Sciences": {
         "titles": [
             "Assessing storm surge impacts on coastal inundation due to climate change: case studies of Baltimore and Dorchester County in Maryland",
             "An Empirical Study of the Relationship between Seasonal Precipitation and Thermodynamic Environment in Puerto Rico"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Water Resources": {
         "titles": [
             "Assessing storm surge impacts on coastal inundation due to climate change: case studies of Baltimore and Dorchester County in Maryland"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Psychology, Social": {
         "titles": [
@@ -1005,7 +1173,9 @@
             "Caregiving in quarantine: Humor styles, reframing, and psychological well-being among parents of children with disabilities",
             "Moral Typecasting Explains Evaluations of Undocumented Immigrants"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 4,
+        "avg_citations": 0.0
     },
     "Linguistics": {
         "titles": [
@@ -1017,7 +1187,9 @@
             "Teaching as invasion: emotions, boundaries and entanglements",
             "Chronotopeography: Nostalgia and modernity in South Delhi's linguistic landscape"
         ],
-        "tc_count": 0
+        "tc_count": 23,
+        "total_titles": 7,
+        "avg_citations": 3.29
     },
     "Language & Linguistics": {
         "titles": [
@@ -1027,25 +1199,33 @@
             "Re-Englishing 'flat-world' fiction",
             "Teaching as invasion: emotions, boundaries and entanglements"
         ],
-        "tc_count": 0
+        "tc_count": 1,
+        "total_titles": 5,
+        "avg_citations": 0.2
     },
     "Computer Science, Hardware & Architecture": {
         "titles": [
             "What Do Agile, Lean, and ITIL Mean to DevOps?"
         ],
-        "tc_count": 6
+        "tc_count": 6,
+        "total_titles": 1,
+        "avg_citations": 6.0
     },
     "Computer Science, Software Engineering": {
         "titles": [
             "What Do Agile, Lean, and ITIL Mean to DevOps?"
         ],
-        "tc_count": 0
+        "tc_count": 6,
+        "total_titles": 1,
+        "avg_citations": 6.0
     },
     "Computer Science, Theory & Methods": {
         "titles": [
             "What Do Agile, Lean, and ITIL Mean to DevOps?"
         ],
-        "tc_count": 0
+        "tc_count": 6,
+        "total_titles": 1,
+        "avg_citations": 6.0
     },
     "Film, Radio, Television": {
         "titles": [
@@ -1053,14 +1233,18 @@
             "From Silence to Story, through Listening and Healing: Following the Cinematic Arc of the Returning Combat Veteran in The Yellow Birds",
             "Disarming Montage"
         ],
-        "tc_count": 2
+        "tc_count": 2,
+        "total_titles": 3,
+        "avg_citations": 0.67
     },
     "Psychology": {
         "titles": [
             "A Proposed Taxonomy for Categorizing Sexual Identities in Adolescence",
             "Job insecurity and subjective sleep quality: The role of spillover and gender"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Sport Sciences": {
         "titles": [
@@ -1070,40 +1254,52 @@
             "Autoregulated and Non-Autoregulated Blood Flow Restriction on Acute Arterial Stiffness",
             "Physical Activity Levels in Six Native American Communities Using the FITT-VP Approach"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 5,
+        "avg_citations": 0.0
     },
     "Ethics": {
         "titles": [
             "An examination of online cheating among business students through the lens of the Dark Triad and Fraud Diamond",
             "eWOM, what are we suspecting? Motivation, truthfulness or identity"
         ],
-        "tc_count": 3
+        "tc_count": 3,
+        "total_titles": 2,
+        "avg_citations": 1.5
     },
     "Biotechnology & Applied Microbiology": {
         "titles": [
             "Functional Degeneracy in Paracoccus denitrificans Pd1222 Is Coordinated via RamB, Which Links Expression of the Glyoxylate Cycle to Activity of the Ethylmalonyl-CoA Pathway",
             "Cerebrospinal fluid replacement solutions promote neuroglia migratory behaviors and spinal explant outgrowth in microfluidic culture"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Microbiology": {
         "titles": [
             "Functional Degeneracy in Paracoccus denitrificans Pd1222 Is Coordinated via RamB, Which Links Expression of the Glyoxylate Cycle to Activity of the Ethylmalonyl-CoA Pathway",
             "Microbial Community Succession Along a Chronosequence in Constructed Salt Marsh Soils"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Anthropology": {
         "titles": [
             "Integrating Multiple Sources to Reconstruct the Pre- and Early Postcolonial Forests of the Chesapeake: 1588-1838"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Regional & Urban Planning": {
         "titles": [
             "Value co-creation in online healthcare communities"
         ],
-        "tc_count": 0
+        "tc_count": 23,
+        "total_titles": 1,
+        "avg_citations": 23.0
     },
     "Oceanography": {
         "titles": [
@@ -1112,7 +1308,9 @@
             "The use of unmanned aircraft systems and high-resolution satellite imagery to monitor tilapia fish-cage aquaculture expansion in Lake Victoria, Kenya",
             "Ecophysiology of mesophotic reef-building corals in Hawai'i is influenced by symbiont-host associations, photoacclimatization, trophic plasticity, and adaptation"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 4,
+        "avg_citations": 0.0
     },
     "History": {
         "titles": [
@@ -1126,33 +1324,43 @@
             "Prejudice for Profit Escaped Nun Stories and American Catholic Print Culture",
             "Stolen looks, people unbound: picturing contraband people during the civil war"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 9,
+        "avg_citations": 0.0
     },
     "Immunology": {
         "titles": [
             "SARS-CoV-2 and Multiple Sclerosis: Potential for Disease Exacerbation"
         ],
-        "tc_count": 11
+        "tc_count": 11,
+        "total_titles": 1,
+        "avg_citations": 11.0
     },
     "Chemistry, Organic": {
         "titles": [
             "Synthesis of a Water-Soluble, Soft N-Donor BTzBP Ligand Containing Only CHON"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Forestry": {
         "titles": [
             "Larval Aggregation of Heortia vitessoides Moore (Lepidoptera: Crambidae) and Evidence of Horizontal Transfer of Avermectin",
             "The Effects of Trichoderma Fungi on the Tunneling, Aggregation, and Colony-Initiation Preferences of Black-Winged Subterranean Termites, Odontotermes formosanus (Blattodea: Termitidae)"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Imaging Science & Photographic Technology": {
         "titles": [
             "High-Resolution Monitoring of Tidal Systems Using UAV: A Case Study on Poplar Island, MD (USA)",
             "Seasonality and Characterization Mapping of Restored Tidal Marsh by NDVI Imageries Coupling UAVs and Multispectral Camera"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Genetics & Heredity": {
         "titles": [
@@ -1160,7 +1368,9 @@
             "Determining the most recent common ancestor in a finite linear habitat with asymmetric dispersal",
             "Epigenomic changes in the tungara frog (Physalaemus pustulosus): possible effects of introduced fungal pathogen and urbanization"
         ],
-        "tc_count": 0
+        "tc_count": 5,
+        "total_titles": 3,
+        "avg_citations": 1.67
     },
     "Religion": {
         "titles": [
@@ -1168,20 +1378,26 @@
             "Psychology of Religion Courses in the Undergraduate Curriculum",
             "On the Way to Divine Providence: From the Abyss of Time to the Throe of Eternity"
         ],
-        "tc_count": 0
+        "tc_count": 3,
+        "total_titles": 3,
+        "avg_citations": 1.0
     },
     "Social Issues": {
         "titles": [
             "Muslim women negotiating their identity in the era of the Muslim ban"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "History Of Social Sciences": {
         "titles": [
             "Entrepreneurial Processes and industry Development:The Case of Baltimore's Calming Entrepreneurs",
             "Producer co-operatives of the Knights of Labor: seeking worker independence"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Industrial Relations & Labor": {
         "titles": [
@@ -1189,82 +1405,108 @@
             "Producer co-operatives of the Knights of Labor: seeking worker independence",
             "The cross-cultural moderators of the influence of emotional intelligence on organizational citizenship behavior and counterproductive work behavior"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 3,
+        "avg_citations": 0.0
     },
     "Literature, American": {
         "titles": [
             "Imposture and Subversion Charles Brockden Brown's Memoirs of Carwin the Biloquist"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Green & Sustainable Science & Technology": {
         "titles": [
             "Sustainability Calculus in Adopting Smart Speakers-Personalized Services and Privacy Risks",
             "The Role of Education in Increasing Awareness and Reducing Impact of Natural Hazards"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Ethnic Studies": {
         "titles": [
             "\"Authorized to work in the US\": Examining the myth of porous borders in the era of populism for practicing linguists",
             "Anarchists and national identity: The case of German radicals in the United States and Brazil, 1880-1945"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 2,
+        "avg_citations": 0.0
     },
     "Social Sciences, Mathematical Methods": {
         "titles": [
             "Regulation, entrepreneurship, and dynamism",
             "Federal Regulation and Mortality in the 50 States"
         ],
-        "tc_count": 0
+        "tc_count": 5,
+        "total_titles": 2,
+        "avg_citations": 2.5
     },
     "Cultural Studies": {
         "titles": [
             "There is Buffalo Ecocide: A Meditation upon Homecoming in Buffalo Country"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Theater": {
         "titles": [
             "Word/Play: Death of a Salesman"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Psychiatry": {
         "titles": [
             "Job insecurity and subjective sleep quality: The role of spillover and gender"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Literary Reviews": {
         "titles": [
             "Skin Walking"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Plant Sciences": {
         "titles": [
             "Soil drainage-class influences on the distribution of witness trees (1664-1700) in Wicomico County, Maryland, USA"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Engineering, Civil": {
         "titles": [
             "Collaborative Partnering for Airport Construction Projects: State-of-Practice"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Philosophy": {
         "titles": [
             "Robust Evolution in Historical Time"
         ],
-        "tc_count": 1
+        "tc_count": 1,
+        "total_titles": 1,
+        "avg_citations": 1.0
     },
     "Physics, Particles & Fields": {
         "titles": [
             "Exploring Bayesian parameter estimation for chiral effective field theory using nucleon-nucleon phase shifts"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Family Studies": {
         "titles": [
@@ -1273,73 +1515,97 @@
             "Experiences of Parent-Advocates of Trans and Gender Non-Conforming Youth",
             "Predicting College Women's Self-esteem Based on Verbal Coercion Experience and Verbal Tactic Items on the Revised Sexual Experiences Survey"
         ],
-        "tc_count": 5
+        "tc_count": 6,
+        "total_titles": 4,
+        "avg_citations": 1.5
     },
     "Limnology": {
         "titles": [
             "Ecophysiology of mesophotic reef-building corals in Hawai'i is influenced by symbiont-host associations, photoacclimatization, trophic plasticity, and adaptation"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Music": {
         "titles": [
             "Contemporary Art and the Problem of Music: Towards a Musical Contemporary Art",
             "Stress Reduction From a Musical Intervention"
         ],
-        "tc_count": 9
+        "tc_count": 9,
+        "total_titles": 2,
+        "avg_citations": 4.5
     },
     "Psychology, Experimental": {
         "titles": [
             "Stress Reduction From a Musical Intervention"
         ],
-        "tc_count": 0
+        "tc_count": 9,
+        "total_titles": 1,
+        "avg_citations": 9.0
     },
     "Soil Science": {
         "titles": [
             "Effect of land use changes on soil microbial enzymatic activity and soil microbial community composition on Maryland ' s Eastern Shore"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Clinical Neurology": {
         "titles": [
             "Ayurvedic protocols of chronic pain management: spatiotemporality as present moment awareness and embodied time"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Veterinary Sciences": {
         "titles": [
             "Free-Living Aquatic Turtles as Sentinels of Salmonella spp. for Water Bodies"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Mathematical & Computational Biology": {
         "titles": [
             "Determining the most recent common ancestor in a finite linear habitat with asymmetric dispersal"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Psychology, Biological": {
         "titles": [
             "Sex differences in social odor discrimination by southern giant pouched rats (Cricetomys ansorgei)"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Cell & Tissue Engineering": {
         "titles": [
             "Cerebrospinal fluid replacement solutions promote neuroglia migratory behaviors and spinal explant outgrowth in microfluidic culture"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Engineering, Biomedical": {
         "titles": [
             "Cerebrospinal fluid replacement solutions promote neuroglia migratory behaviors and spinal explant outgrowth in microfluidic culture"
         ],
-        "tc_count": 0
+        "tc_count": 0,
+        "total_titles": 1,
+        "avg_citations": 0.0
     },
     "Urban Studies": {
         "titles": [
             "Never married individuals and homeownership in urban China"
         ],
-        "tc_count": 2
+        "tc_count": 2,
+        "total_titles": 1,
+        "avg_citations": 2.0
     }
 }

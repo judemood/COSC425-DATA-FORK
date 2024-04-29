@@ -19,11 +19,15 @@ from PythonCode.Utilities.utilities import Utilities
 class AvgCitationsData:
         titles: List[str] = field(default_factory=list)
         tc_count: int = 0
+        total_titles: int = 0
+        avg_citations: float = 0.0
         
 def serialize_avg_citations_data(avg_citations_data):
     return {
         "titles": avg_citations_data.titles,
-        "tc_count": avg_citations_data.tc_count
+        "tc_count": avg_citations_data.tc_count,
+        "total_titles": avg_citations_data.total_titles,
+        "avg_citations": avg_citations_data.avg_citations
     }
 
 if __name__ == "__main__":
@@ -46,12 +50,8 @@ if __name__ == "__main__":
         for inner_key, inner_values in inner_keys.items():
             if inner_key == "titles":
                 judes_dict[outer_key] = AvgCitationsData()
-                # print(judes_dict.items())
-                # print("\n\n")
-                # print("\n\n")
-                for title in inner_values:
-                    judes_dict[outer_key].titles.append(title)
-                    judes_dict[outer_key].tc_count = 0
+                judes_dict[outer_key].titles.extend(inner_values)
+                judes_dict[outer_key].total_titles = len(inner_values)
 
         # count += 1
     # print(judes_dict)
@@ -73,13 +73,9 @@ if __name__ == "__main__":
         file_path = os.path.join(split_files_dir, filename)
         with open(file_path, "r") as current_file:
             entry_text = current_file.read()
-            processed_titles = set()
             for key, value in judes_dict.items():
-                for title in value.titles:
-                    if title in processed_titles:
-                        continue  
+                for title in value.titles:                    
                     if title in entry_text:
-                        processed_titles.add(title)
                         # value.tc_count = randint(50, 100)
                         # print(f'{entry_text}\n')
                         # print(title)
@@ -89,14 +85,17 @@ if __name__ == "__main__":
                         # print(f'Paper: {title}')
                         for key, val in attr_rec.items():
                             citaitons = val[1] if val[0] else None
-                        if citaitons:
-                            value.tc_count = citaitons
+                            if citaitons:
+                                value.tc_count += citaitons
                         break
+            
                     
     # print(judes_dict)
 
 
-
+    for value in judes_dict.values():
+        if value.total_titles != 0:
+            value.avg_citations = round(value.tc_count / value.total_titles, 2)
 
     with open("judesData.json", 'w') as file:
         json.dump(judes_dict, file, default=serialize_avg_citations_data, indent=4)
