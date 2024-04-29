@@ -9,7 +9,7 @@ from random import randint
 
 
 # Add the parent directory to the Python path
-sys.path.append('/mnt/linuxlab/home/jmaggitti1/425 Project/COSC425-DATA-FORK/')
+sys.path.append('/home/portal/425 Project/COSC425-DATA-FORK/')
 
 from GeneralUtilities.PickleDict.PickleDictLoader import PickleDictLoader
 from PythonCode.Utilities.My_Data_Classes import CategoryInfo
@@ -23,9 +23,9 @@ class AvgCitationsData:
 if __name__ == "__main__":
     # loader = PickleDictLoader(pickle_path="/mnt/linuxlab/home/jmaggitti1/425 Project/COSC425-DATA-FORK/PythonCode/Utilities/category_dict.pkl")
     # category_dict = loader.get_loaded_dict()
-    split_files_dir = "/mnt/linuxlab/home/jmaggitti1/425 Project/COSC425-DATA-FORK/PythonCode/Utilities/split_files"
+    split_files_dir = "/home/portal/425 Project/COSC425-DATA-FORK/PythonCode/Utilities/split_files"
     
-    with open("/mnt/linuxlab/home/jmaggitti1/425 Project/COSC425-DATA-FORK/Stats/proc_cat_data.json", "r") as cat_file:
+    with open("/home/portal/425 Project/COSC425-DATA-FORK/Stats/proc_cat_data.json", "r") as cat_file:
         category_dict = json.load(cat_file)
         # print(category_dict)
     
